@@ -17,3 +17,9 @@ Place this script inside the Volatitlity folder and run it
 ```
 sh QuickInstall.sh
 ```
+
+# Support
+
+If this script had come handy you can support my work buying a coffee:
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C1EGEYL)
